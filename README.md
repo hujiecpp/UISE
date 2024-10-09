@@ -6,7 +6,7 @@ This is the project page for paper: Universal Image Segmentation with Efficiency
 This paper expands the [YOSO](https://github.com/hujiecpp/YOSO) framework for efficient unified image segmentation, encompassing panoptic, semantic, instance, and video segmentation capabilities. 
 
 The key distinctions are:
-- The "re-parameterize.ipynb" code illustrates the process of reparameterization between IFA and CFA.
+- The "UISE/re-parameterize.ipynb" code illustrates the process of reparameterization between IFA and CFA.
 - The "UISE/uise_video/" directory demonstrates the integration of UISE into video segmentation workflows.
 - The "UISE/config/" directory shows the segmentation tasks that UISE newly supports.
 
